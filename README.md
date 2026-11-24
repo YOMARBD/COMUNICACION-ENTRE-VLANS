@@ -8,7 +8,7 @@ Implementación de una red segmentada mediante **VLANs (802.1Q)** utilizando un 
 
 ## 1. Topología de Red
 
-![Topología de Red en GNS3](<img width="1050" height="547" alt="image" src="https://github.com/user-attachments/assets/0caa5d89-8740-47a4-8069-9521e2f61455" />
+![Topología de Red en GNS3](<img width="986" height="536" alt="image" src="https://github.com/user-attachments/assets/d4053f81-a31f-4f53-a69b-498fc7d04ce0" />
 )
 
 
